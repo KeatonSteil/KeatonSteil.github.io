@@ -4,7 +4,7 @@ email:       keaton@steil.org
 author:      keaton steil
 description: a personal blog used for learning and fun
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "keaton.steil.org"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
