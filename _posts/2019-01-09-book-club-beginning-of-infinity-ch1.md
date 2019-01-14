@@ -3,7 +3,7 @@ layout: post
 title: the beginning of infinity 1
 subtitle: explanations that transform the world<br>a book by david deutsch<br>chapter 1
 summary: a book by David Deutsch<br>chapter 1 summary and thoughts
-date:   2018-12-20
+date:   2019-01-14
 permalink: /beginning-of-infinity/ch1/
 ---
 
