@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the beginning of infinity 2
-subtitle: explanations that transform the world<br>a book by david deutsch<br>chapter 2; Closer to Reality
+subtitle: Explanations that Transform the World<br>a book by David Deutsch<br>chapter 2; Closer to Reality
 summary: a book by David Deutsch<br>chapter 2 summary and thoughts
 date:   2019-01-16
 permalink: /beginning-of-infinity/ch2/
@@ -9,7 +9,7 @@ permalink: /beginning-of-infinity/ch2/
 
 <h4>What does it mean to say that we have observed a thing?</h4>
 
-The Palomar Sky Survey is a collection of almost 2,000 photographic negatives of the night sky, which were copied on to glass plates and showed stars and galaxies as dark shapes on a white background. Scientists used to use these plates to chart the position of galaxies while looking at the plates under microscopes. They would line up the center of a galaxy using a crosshair in the microscope and press a button to catalog the position. They did this for many thousands of galaxies, and it wasn't easy. Sometimes one could not tell what shapes were galaxies or other objects like stars. Sometimes there were defects in the image which were caused by an error while copying the image. So sometimes when the scientists looked through the eyepiece they saw extraordinary galaxies, many thousands of light-years across, and sometimes they saw... just a bunch of dark specs on the glass plate in front of them?
+The Palomar Sky Survey is a collection of almost 2,000 photographic negatives of the night sky, which were copied on to glass plates and show stars and galaxies as dark shapes on a white background. Scientists used to use these plates to chart the position of galaxies while looking at the plates under microscopes. They would line up the center of a galaxy using a crosshair in the microscope and press a button to catalog the position. They did this for many thousands of galaxies, and it wasn't easy. Sometimes one could not tell what shapes were galaxies or other objects like stars. Sometimes there were defects in the image which were caused by an error while copying the image. So sometimes when the scientists looked through the eyepiece they saw extraordinary galaxies, many thousands of light-years across, and sometimes they saw... just a bunch of dark specs on the glass plate in front of them?
 
 But when they were looking at the galaxies, they saw dark specs too. What was the difference between seeing a mind bogglingly vast cosmic entity and seeing an error in the method of copying?
 
