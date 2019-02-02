@@ -21,3 +21,4 @@ The enlightenment and the rise of scientific thinking has been a primary cause i
 
 Anti-anthropocentrism primarily takes the form of two different ideas. The first is commonly refered to as the 'Priciple of Mediocrity' and emphasizes how typical the Earth and her inhabitants are. It states that there is nothing significant about humans (in the cosmic scheme of things). The condition 'in the cosmic scheme of things' is required because humans do seem to have significance according to moral values they apply to themselves. But the 'Priciple of Mediocrity' states that all moral values are inherently anthropocentric and only explain the behavior of humans, which are insignificant. The 'Priciple of Medicrity' is summed up by Stephen Hawking: humans are "just a chemical scum on the surface of a typical plant that's in orbit round a typical star on the outskirts of a typical galaxy."
 
+W.I.P.
