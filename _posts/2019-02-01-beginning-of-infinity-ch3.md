@@ -23,4 +23,10 @@ Anti-anthropocentrism primarily takes the form of two different ideas. The first
 
 The second way anti-anthropocentrism is commonly represented is by the metaphor known as _spaceship Earth_. Imagine a generationship, a spaceship which has been designed with a life support system for many generations of human life. This life support system will provide all the necessary resources for human life. But the spaceship will not be able to support life if the humans try to change the spaceship too much or adopt lifestyles too different than what the spaceship was designed to support. In the metaphor, the spaceship is the Earth. The life support system on the spaceship is our biosphere. Like how the ship is designed to support life, the biosphere appears to be designed to support us due to the fact that we are designed to it through evolution. If we ruin the biosphere, like the passengers on the spaceship, we will have no where to go.
 
+<h4>The Principle of Mediocrity</h4>
+
+There are two wats of thinking about the 'Principle of Mediocrity.' First we will consider the straightfoward physical interpretation of this idea and then the broader philosophical implications.
+
+In the cosmic scheme of things, something is considered physically significant if it appears in the explanation for many other things, or if it has a large effect on many other things. Space and time are hugely significant because they appear in almost all good explanations. Black holes, galaxies, and even stars are somewhat significant by comparison. Planets a much less significant than those other cosmic entities. And people, in their lowely place, seem to be quite insignificant. But this is a parochial error. An _anti_-anthropocentric parochial error, due to our unusual place in the history of our species.
+
 WIP
