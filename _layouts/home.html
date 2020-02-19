@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ site.title }}</h1>
+            {% if site.description %}
+            <span class="subheading">{{ site.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        {{ content }}
+        <h1 align="center">About Me</h1>
+        <p>
+        Hi! My name is Keaton Steil. I'm currently working towards a B.S. in mathematics with a teaching certification in grades 7-12 at Texas Woman's University.
+        I'm hoping to become a teacher so I can educate future mathematicians, engineers, and economists.<br/><br/>
+        It is my conviction that math can be fun and interesting for the vast majority of students.
+        From learning the math of financial investments to abstract problem solving, every student's life should be transformed by math!
+        And since most students have a hard time getting excited about math, it is my responsibility to get them excited, and change the way they think about math.<br/><br/>
+        <h2 align="center">"The task of the modern educator is not to cut down jungles but to irrigate deserts."</h2>
+        <p align="center">- C.S. Lewis</p>
+        </p>
+        <!--
+        <!-- Home Post List
+        {% for post in site.posts limit : 5 %}
+
+        <article class="post-preview">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <h2 class="post-title">{{ post.title }}</h2>
+            {% if post.subtitle %}
+            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+            {% else %}
+            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+            {% endif %}
+          </a>
+          <p class="post-meta">Posted by
+            {% if post.author %}
+            {{ post.author }}
+            {% else %}
+            {{ site.author }}
+            {% endif %}
+            on
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+          </p>
+        </article>
+
+        <hr>
+
+        {% endfor %}
+
+        <!-- Pager
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+        </div>
+        -->
+      </div>
+    </div>
+  </div>

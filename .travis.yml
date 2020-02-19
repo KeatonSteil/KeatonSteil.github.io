@@ -1,15 +1,12 @@
 language: ruby
-cache: bundler
-sudo: false
 rvm:
- - 2.3
- - 2.4
- - 2.5
- - 2.6
-script:
- - bundle exec jekyll build
- - grep johnotander/pixyll _site/index.html
- - grep post-title         _site/index.html
- - grep pagination-item    _site/index.html
- - grep johnotander/pixyll _site/css/pixyll.css
- - grep 404                _site/404.html
+- 2.4.1
+script: "./bin/cibuild"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+sudo: false
+cache: bundler
+notifications:
+  email: false
